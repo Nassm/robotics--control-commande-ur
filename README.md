@@ -11,6 +11,7 @@ __Projet:__
 ![IMAGE](plateau+pion(2).jpg)
 
 
+![IMAGE](ur_planner.png)
 
 ## 1. Sources
 
